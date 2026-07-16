@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>KaraKoram Gems | Natural Gemstones From The Karakoram Mountains</title>
+
+<meta name="description" content="KaraKoram Gems specializes in ethically sourced natural gemstones from Gilgit-Baltistan, Pakistan. Premium rough crystals, mineral specimens, and cutting-grade gemstones for collectors, jewelers, and wholesalers.">
+
+<meta name="keywords" content="Karakoram Gems, Pakistani gemstones, Gilgit Baltistan gemstones, aquamarine, tourmaline, ruby, emerald, mineral specimens">
+
+<link rel="stylesheet" href="css/style.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+</head>
+
+
+<body>
+
+
+<!-- HEADER -->
+
+<header>
+
+<div class="container nav-container">
+
+<div class="logo">
+<a href="index.html">
+KaraKoram <span>Gems</span>
+</a>
+</div>
+
+
+<nav>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="about.html">About</a></li>
+
+<li><a href="gemstones.html">Gemstones</a></li>
+
+<li><a href="gallery.html">Gallery</a></li>
+
+<li><a href="wholesale.html">Wholesale</a></li>
+
+<li><a href="contact.html">Contact</a></li>
+
+</ul>
+
+</nav>
+
+
+</div>
+
+</header>
+
+
+
+<!-- HERO SECTION -->
+
+
+<section class="hero">
+
+
+<div class="hero-overlay">
+
+
+<div class="container hero-content">
+
+
+<h1>
+From The Peaks Of The Karakoram To The World
+</h1>
+
+
+<p>
+Naturally formed treasures from the mineral-rich mountains of Gilgit-Baltistan, Pakistan.
+</p>
+
+
+<p>
+Ethically sourced gemstones, rough crystals, and mineral specimens for collectors, jewelers, and wholesalers worldwide.
+</p>
+
+
+<a href="gemstones.html" class="btn">
+Explore Our Collection
+</a>
+
+
+</div>
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+<!-- INTRO SECTION -->
+
+
+<section class="intro container">
+
+
+<div class="intro-text">
+
+
+<h2>
+Nature's Masterpieces, Carefully Sourced
+</h2>
+
+
+<p>
+
+KaraKoram Gems specializes in ethically sourced natural gemstones from the renowned mineral-rich mountains of Gilgit-Baltistan, Pakistan.
+
+</p>
+
+
+<p>
+
+With generations of experience in gemstone sourcing and trading, we supply collectors, lapidaries, jewelers, and wholesalers with premium rough crystals, mineral specimens, and cutting-grade gemstones.
+
+</p>
+
+
+<a href="about.html" class="gold-link">
+Discover Our Story →
+</a>
+
+
+</div>
+
+
+
+</section>
+
+
+
+
+
+
+<!-- COLLECTIONS -->
+
+
+<section class="collections">
+
+
+<div class="container">
+
+
+<h2>
+Our Featured Gemstones
+</h2>
+
+
+<div class="cards">
+
+
+
+<div class="card">
+
+<img src="images/aquamarine.jpg">
+
+<h3>Aquamarine</h3>
+
+<p>
+Known for its ocean-blue clarity and exceptional beauty.
+</p>
+
+</div>
+
+
+
+
+<div class="card">
+
+<img src="images/tourmaline.jpg">
+
+<h3>Tourmaline</h3>
+
+<p>
+Rare natural crystals sourced from mountain regions.
+</p>
+
+</div>
+
+
+
+
+
+<div class="card">
+
+<img src="images/minerals.jpg">
+
+<h3>Mineral Specimens</h3>
+
+<p>
+Unique natural formations for collectors and enthusiasts.
+</p>
+
+</div>
+
+
+
+</div>
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+
+<!-- WHY US -->
+
+
+<section class="why container">
+
+
+<h2>
+Why Choose KaraKoram Gems?
+</h2>
+
+
+<div class="features">
+
+
+<div>
+<h3>Authentic Sourcing</h3>
+<p>
+Direct relationships with gemstone communities and suppliers.
+</p>
+</div>
+
+
+
+<div>
+<h3>Natural Beauty</h3>
+<p>
+Every stone carries a unique story formed by nature.
+</p>
+</div>
+
+
+
+<div>
+<h3>Worldwide Supply</h3>
+<p>
+Serving collectors, jewelers, and wholesale buyers.
+</p>
+</div>
+
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+<!-- CONTACT CTA -->
+
+
+<section class="contact-banner">
+
+
+<h2>
+Looking For Premium Natural Gemstones?
+</h2>
+
+
+<p>
+Contact KaraKoram Gems for wholesale inquiries and collector specimens.
+</p>
+
+
+<a href="contact.html" class="btn">
+Contact Us
+</a>
+
+
+</section>
+
+
+
+
+
+
+
+<!-- FOOTER -->
+
+
+<footer>
+
+
+<div class="container">
+
+
+<h3>
+KaraKoram Gems
+</h3>
+
+
+<p>
+12740 W Capitol Dr.
+</p>
+
+
+<p>
+Phone: +1 773-754-6570
+</p>
+
+
+<p>
+Email: swastullc@gmail.com
+</p>
+
+
+<p class="copyright">
+© 2026 KaraKoram Gems. All Rights Reserved.
+</p>
+
+
+</div>
+
+
+</footer>
+
+
+
+
+<script src="js/script.js"></script>
+
+
+</body>
+
+</html>

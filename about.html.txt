@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>About KaraKoram Gems</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+
+
+<body>
+
+
+<header>
+<div class="container nav-container">
+
+<div class="logo">
+<a href="index.html">KaraKoram <span>Gems</span></a>
+</div>
+
+
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="gemstones.html">Gemstones</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+<li><a href="wholesale.html">Wholesale</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+
+</div>
+</header>
+
+
+
+<section class="page-banner">
+
+<h1>Our Story</h1>
+
+</section>
+
+
+
+<section class="container content-section">
+
+
+<h2>
+From The Legendary Karakoram Mountains
+</h2>
+
+
+<p>
+KaraKoram Gems was founded with a passion for sharing the natural treasures hidden within the majestic mountains of Gilgit-Baltistan, Pakistan.
+</p>
+
+
+<p>
+For generations, our family has been connected with gemstone sourcing and trading. Our experience allows us to identify exceptional natural gemstones, rare mineral specimens, and quality rough materials.
+</p>
+
+
+<p>
+We believe every gemstone carries a story — a journey from deep within the earth to collectors, jewelers, and designers around the world.
+</p>
+
+
+
+<h2>
+Our Mission
+</h2>
+
+
+<p>
+Our mission is to provide authentic, naturally sourced gemstones while building trusted relationships with collectors, jewelers, and wholesale partners worldwide.
+</p>
+
+
+</section>
+
+
+
+
+<footer>
+
+<div class="container">
+
+<h3>KaraKoram Gems</h3>
+
+<p>
+12740 W Capitol Dr.
+</p>
+
+<p>
++1 773-754-6570 | swastullc@gmail.com
+</p>
+
+
+</div>
+
+</footer>
+
+
+
+</body>
+</html>

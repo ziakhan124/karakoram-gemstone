@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Wholesale Gemstones | KaraKoram Gems</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+
+
+
+<body>
+
+
+<header>
+
+<div class="container nav-container">
+
+
+<div class="logo">
+
+<a href="index.html">
+KaraKoram <span>Gems</span>
+</a>
+
+</div>
+
+
+
+<nav>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="gemstones.html">Gemstones</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+<li><a href="wholesale.html">Wholesale</a></li>
+<li><a href="contact.html">Contact</a></li>
+
+</ul>
+
+</nav>
+
+
+</div>
+
+</header>
+
+
+
+
+<section class="page-banner">
+
+<h1>
+Wholesale & Collector Services
+</h1>
+
+</section>
+
+
+
+
+<section class="container content-section">
+
+
+<h2>
+Partner With KaraKoram Gems
+</h2>
+
+
+<p>
+
+We work with jewelry designers, gemstone dealers, lapidaries, collectors, and businesses looking for authentic natural gemstones.
+
+</p>
+
+
+
+<div class="features">
+
+
+<div>
+
+<h3>
+Jewelry Professionals
+</h3>
+
+<p>
+Quality rough and finished gemstones for custom jewelry creations.
+</p>
+
+</div>
+
+
+
+<div>
+
+<h3>
+Collectors
+</h3>
+
+<p>
+Unique mineral specimens and rare natural formations.
+</p>
+
+</div>
+
+
+
+<div>
+
+<h3>
+Wholesale Buyers
+</h3>
+
+<p>
+Reliable gemstone supply for international markets.
+</p>
+
+</div>
+
+
+
+</div>
+
+
+
+
+<h2>
+Request A Collection Review
+</h2>
+
+
+<p>
+
+Contact us for available stones, wholesale inquiries, and custom gemstone requirements.
+
+</p>
+
+
+<a href="contact.html" class="btn">
+Contact Our Team
+</a>
+
+
+
+</section>
+
+
+
+
+<footer>
+
+<div class="container">
+
+<h3>KaraKoram Gems</h3>
+
+<p>
+12740 W Capitol Dr.
+</p>
+
+</div>
+
+</footer>
+
+
+
+</body>
+
+</html>

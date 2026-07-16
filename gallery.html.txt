@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Gemstone Gallery | KaraKoram Gems</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container nav-container">
+
+<div class="logo">
+<a href="index.html">
+KaraKoram <span>Gems</span>
+</a>
+</div>
+
+
+<nav>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="gemstones.html">Gemstones</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+<li><a href="wholesale.html">Wholesale</a></li>
+<li><a href="contact.html">Contact</a></li>
+
+</ul>
+
+</nav>
+
+
+</div>
+
+</header>
+
+
+
+<section class="page-banner">
+
+<h1>
+Gemstone Gallery
+</h1>
+
+</section>
+
+
+
+
+<section class="container gallery">
+
+
+<h2>
+Treasures From The Mountains
+</h2>
+
+
+<p>
+Explore examples of natural gemstones, rough crystals, and mineral specimens sourced from the Karakoram region.
+</p>
+
+
+
+<div class="gallery-grid">
+
+
+<img src="images/gallery/gem1.jpg" alt="Natural gemstone">
+
+<img src="images/gallery/gem2.jpg" alt="Mountain minerals">
+
+<img src="images/gallery/gem3.jpg" alt="Rough crystals">
+
+<img src="images/gallery/gem4.jpg" alt="Gemstone specimen">
+
+<img src="images/gallery/gem5.jpg" alt="Natural crystals">
+
+<img src="images/gallery/gem6.jpg" alt="Mineral collection">
+
+
+</div>
+
+
+</section>
+
+
+
+
+<footer>
+
+<div class="container">
+
+<h3>KaraKoram Gems</h3>
+
+<p>
+12740 W Capitol Dr.
+</p>
+
+<p>
++1 773-754-6570
+</p>
+
+</div>
+
+</footer>
+
+
+
+</body>
+
+</html>

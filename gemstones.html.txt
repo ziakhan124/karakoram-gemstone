@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Natural Gemstone Collection | KaraKoram Gems</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+
+
+<body>
+
+
+<header>
+<div class="container nav-container">
+
+<div class="logo">
+<a href="index.html">KaraKoram <span>Gems</span></a>
+</div>
+
+
+<nav>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="gemstones.html">Gemstones</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+<li><a href="wholesale.html">Wholesale</a></li>
+<li><a href="contact.html">Contact</a></li>
+
+</ul>
+
+</nav>
+
+</div>
+</header>
+
+
+
+<section class="page-banner">
+
+<h1>
+Our Gemstone Collection
+</h1>
+
+</section>
+
+
+
+
+<section class="container">
+
+
+<div class="cards">
+
+
+
+<div class="card">
+
+<img src="images/aquamarine.jpg">
+
+<h3>Aquamarine</h3>
+
+<p>
+Beautiful blue gemstones from the high mountain regions.
+</p>
+
+</div>
+
+
+
+<div class="card">
+
+<img src="images/tourmaline.jpg">
+
+<h3>Tourmaline</h3>
+
+<p>
+Rare crystals prized by collectors worldwide.
+</p>
+
+</div>
+
+
+
+
+<div class="card">
+
+<img src="images/ruby.jpg">
+
+<h3>Ruby</h3>
+
+<p>
+Natural gemstones with deep color and character.
+</p>
+
+</div>
+
+
+
+
+<div class="card">
+
+<img src="images/emerald.jpg">
+
+<h3>Emerald</h3>
+
+<p>
+Premium stones selected for beauty and rarity.
+</p>
+
+</div>
+
+
+
+
+<div class="card">
+
+<img src="images/quartz.jpg">
+
+<h3>Quartz Crystals</h3>
+
+<p>
+Unique natural formations and collector specimens.
+</p>
+
+</div>
+
+
+
+
+</div>
+
+
+</section>
+
+
+
+<footer>
+
+<div class="container">
+
+<h3>KaraKoram Gems</h3>
+
+<p>12740 W Capitol Dr.</p>
+
+</div>
+
+</footer>
+
+
+</body>
+</html>
