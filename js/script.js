@@ -81,5 +81,55 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 
-    // Netlify handles contact form submissions from the static HTML form.
+    const contactForm = document.querySelector(".contact-form");
+
+    if (contactForm) {
+        const status = contactForm.querySelector(".form-status");
+        const submitButton = contactForm.querySelector('button[type="submit"]');
+
+        contactForm.addEventListener("submit", async (event) => {
+            event.preventDefault();
+
+            if (status) {
+                status.className = "form-status is-loading";
+                status.textContent = "Sending your message...";
+            }
+
+            if (submitButton) {
+                submitButton.disabled = true;
+                submitButton.textContent = "Sending...";
+            }
+
+            try {
+                const formData = new FormData(contactForm);
+
+                const response = await fetch("/", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                    body: new URLSearchParams(formData).toString()
+                });
+
+                if (!response.ok) {
+                    throw new Error("Netlify form submission failed");
+                }
+
+                contactForm.reset();
+
+                if (status) {
+                    status.className = "form-status is-success";
+                    status.textContent = "Thank you. Your message was sent, and we will respond shortly.";
+                }
+            } catch (error) {
+                if (status) {
+                    status.className = "form-status is-error";
+                    status.textContent = "Something went wrong. Please email swastullc@gmail.com directly.";
+                }
+            } finally {
+                if (submitButton) {
+                    submitButton.disabled = false;
+                    submitButton.textContent = "Send Message";
+                }
+            }
+        });
+    }
 });

@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
-<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="icon" href="favicon.ico" sizes="any">
 <link rel="stylesheet" href="css/style.css">
 </head>
 
@@ -62,7 +62,7 @@
                 </div>
             </div>
 
-            <form class="contact-form" name="gemstone-inquiry" method="POST" action="/thank-you.html" data-netlify="true" data-netlify-honeypot="bot-field">
+            <form class="contact-form" name="gemstone-inquiry" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
                 <input type="hidden" name="form-name" value="gemstone-inquiry">
                 <p class="hidden-field">
                     <label>Do not fill this out if you are human: <input name="bot-field"></label>
@@ -83,6 +83,7 @@
                     <label for="message">Message</label>
                     <textarea id="message" name="message" rows="6" required></textarea>
                 </div>
+                <p class="form-status" aria-live="polite"></p>
                 <button class="btn" type="submit">Send Message</button>
             </form>
         </div>
