@@ -276,7 +276,7 @@ body.nav-open .nav-toggle span::after {
     background:
         linear-gradient(90deg, rgba(5, 18, 20, .93), rgba(5, 18, 20, .66) 48%, rgba(5, 18, 20, .28)),
         linear-gradient(0deg, rgba(5, 18, 20, .9), rgba(5, 18, 20, .04) 52%),
-        url("../images/gemstone-banner.jpg") center / cover;
+        url("../images/hero-miners-gems.png") center / cover;
     color: var(--paper);
 }
 
